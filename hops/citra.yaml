@@ -1,0 +1,37 @@
+citra:
+  name: Citra
+  flavours:
+    - name: citrus
+      intensity: 5
+    - name: tropical fruit
+      intensity: 5
+    - name: lime
+      intensity: 5
+  acids:
+    - name: Alpha
+      amount: 11-14
+    - name: Beta
+      amount: 3-4.5
+    - name: Alpha
+      amount: 11-14
+    - name: Co-Humulone
+      amount: 20-24
+  oils:
+    - name: Total
+      amount: 2.2-2.8
+    - name: Myrcene
+      amount: 60-65
+    - name: Humulene
+      amount: 7-13
+    - name: Co-Humulone
+      amount: 20-24
+    - name: B-Pinene
+      amount: 0.7-1
+    - name: Caryophyllene
+      amount: 6-8
+    - name: Farnesene
+      amount: 0-1
+    - name: Linalool
+      amount: 0.6-0.9
+    - name: Geraniol
+      amount: 0.3-0.5
